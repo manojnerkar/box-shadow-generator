@@ -1,0 +1,26 @@
+.App{
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  align-items: center;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+
+.controls{
+    width: 40vw;
+}
+
+.box{
+  text-align: center;
+  padding: 20vh 0px;
+  width: 40vw;
+  height: 50vh;
+  background-color: blueviolet;
+  color: white;
+}
+
+.textChange{
+  font-size: large;
+  color: black;
+  font-weight: 600;
+}
